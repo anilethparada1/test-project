@@ -24,7 +24,7 @@ jobs:
         pip install requests beautifulsoup4
 
     - name: 4. Ejecutando Scraper en Vivo
-      run: python scrtituifiles.py
+      run: python srctitufiles.py
 
     - name: 5. Subir titulares.txt al repositorio
       run: |
